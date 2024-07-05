@@ -11,7 +11,7 @@ Il **Simple Ticket System** è un'applicazione semplice per la gestione dei tick
 
 1. Clona il repository:
     ```bash
-    git clone https://github.com/tuo-username/simple-ticket-system.git
+    git clone https://github.com/ImElio/simple-ticket-system.git
     ```
 2. Vai nella directory del progetto:
     ```bash
@@ -38,7 +38,6 @@ REJECT_ROLE_ID="null" # Inserici l'id del ruolo rejected
     ```bash
     npm start
     ```
-2. L'applicazione sarà disponibile su `http://localhost:3000`.
 
 ## Struttura del progetto
 

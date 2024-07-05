@@ -25,15 +25,14 @@ Il **Simple Ticket System** è un'applicazione semplice per la gestione dei tick
 ## Configurazione
 
 1. Crea un file `.env` nella root del progetto e aggiungi le seguenti variabili di ambiente:
-    ```env
-    PORT=3000
-    DB_HOST=localhost
-    DB_USER=username
-    DB_PASS=password
-    DB_NAME=simple_ticket_system
-    ```
-
-## Uso
+    
+```env
+DISCORD_TOKEN="null" # Inserici il token del tuo bot
+GUILD_ID="null" # Inserici l'id del tuo Server
+TICKETS_CHANNEL_ID="null" # Inserici l'id della stanza dove verrà inviato l'embed per i Ticket
+LOG_CHANNEL_ID="null" # Inserici l'id della stanza dove verranno inviati i log dei Ticket
+REJECT_ROLE_ID="null" # Inserici l'id del ruolo rejected
+```
 
 1. Avvia l'applicazione:
     ```bash

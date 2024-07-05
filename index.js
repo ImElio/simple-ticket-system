@@ -35,6 +35,7 @@ client.once('ready', async () => {
     console.log('[TICKET SYSTEM] Caricato con successo!');
     console.log('[TICKEY SYSTEM] © Progetto di: alwayselio');
     console.log('[TICKEY SYSTEM] Github: https://github.com/ImElio');
+    console.log('[TICKEY SYSTEM] WEB: https://wikielio.it/');
     console.log(`[TICKEY SYSTEM] Utilizzo della memoria: ${(process.memoryUsage().rss / 1024 / 1024).toFixed(2)} MB RSS | ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)} MB Heap`);
     console.log('[TICKEY SYSTEM] Versione 1.0');
     console.log('[TICKEY SYSTEM] Per qualsiasi problema contattami su Discord -> alwayselio');

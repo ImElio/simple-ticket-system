@@ -11,7 +11,7 @@ The **Simple Ticket System** is a simple ticket management application developed
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/simple-ticket-system.git
+    git clone https://github.com/ImElio/simple-ticket-system.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -39,8 +39,6 @@ The **Simple Ticket System** is a simple ticket management application developed
     ```bash
     npm start
     ```
-2. The application will be available at `http://localhost:3000`.
-
 ## Project Structure
 
 - `index.js`: The main file that starts the application.
